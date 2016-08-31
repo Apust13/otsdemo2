@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13246" started-at="2016-08-28T18:41:48Z" finished-at="2016-08-28T18:42:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13246" started-at="2016-08-28T18:41:48Z" finished-at="2016-08-28T18:42:01Z">
+      <class name="com.apust.selenium.otsdemo.CheckMailTest">
+        <test-method status="PASS" signature="initWebDriver()[pri:0, instance:com.apust.selenium.otsdemo.CheckMailTest@7d9d1a19]" name="initWebDriver" is-config="true" duration-ms="2957" started-at="2016-08-28T21:41:48Z" finished-at="2016-08-28T21:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initWebDriver -->
+        <test-method status="PASS" signature="openSiteTest()[pri:0, instance:com.apust.selenium.otsdemo.CheckMailTest@7d9d1a19]" name="openSiteTest" duration-ms="2766" started-at="2016-08-28T21:41:51Z" finished-at="2016-08-28T21:41:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSiteTest -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.apust.selenium.otsdemo.CheckMailTest@7d9d1a19]" name="loginTest" duration-ms="2771" started-at="2016-08-28T21:41:54Z" finished-at="2016-08-28T21:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="mailTest()[pri:2, instance:com.apust.selenium.otsdemo.CheckMailTest@7d9d1a19]" name="mailTest" duration-ms="4126" started-at="2016-08-28T21:41:57Z" finished-at="2016-08-28T21:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.apust.selenium.otsdemo.CheckMailTest@7d9d1a19]" name="tearDown" is-config="true" duration-ms="616" started-at="2016-08-28T21:42:01Z" finished-at="2016-08-28T21:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.apust.selenium.otsdemo.CheckMailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
